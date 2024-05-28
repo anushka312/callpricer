@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div>
+    <h5>{{ Title }}</h5>
+
+<form method="post" novalidate>
+  {% csrf_token %}
+  {{ form }}
+  <button type="submit">Submit</button>
+</form>
+
+    <br>
+    <div class="column-list"></div>
+    <h2>{{ value }} </h2>
+</div>
+
+</body>
+</html>

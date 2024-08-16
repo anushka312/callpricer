@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/02591412-5cc5-4032-9abd-471bfa5e6628)
+
 The Black-Scholes model is also known as the Black-Scholes-Merton or BSM model.
 It's a differential equation that's widely used to price options contracts.
 The Black-Scholes model requires five input variables: the strike price of an option, the current stock price, the time to expiration, the risk-free rate, and the volatility.
